@@ -7,12 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-test
-<h2>kkkkkkk</h2>
 
-<h2>hhhhhhhhhhhh</h2>
-
-<h2>gitgitgitgitgitgitgitgitgit</h2>
+<h2>fix1</h2>
 
 </body>
 </html>
